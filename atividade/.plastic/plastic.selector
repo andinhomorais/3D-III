@@ -1,0 +1,4 @@
+repository "atividade@andinhomorais58@cloud"
+  path "/"
+    br "/main"
+    co "/main"
